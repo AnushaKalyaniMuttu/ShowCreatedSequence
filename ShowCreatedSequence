@@ -1,0 +1,6 @@
+show create sequence sequenceName
+
+it will the table and create table column
+take command from create table 
+and remove double quotes around table name 
+and run to create the sequence
